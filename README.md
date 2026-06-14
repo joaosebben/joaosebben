@@ -1,7 +1,5 @@
 #  Olá, eu sou João Vitor Sebben
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
 💻 Desenvolvedor Backend Java em formação
 
 ---
